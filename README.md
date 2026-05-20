@@ -1,4 +1,4 @@
-# Supply Chain — Sales Performance Analysis
+# Supply Chain - Sales Performance Analysis
 
 ## Descripción
 Análisis de rendimiento de ventas y operaciones logísticas sobre un dataset de 7.991 órdenes de ventas regionales en Estados Unidos. Se respondieron 8 preguntas de negocio usando SQL y se construyó un dashboard ejecutivo en Power BI.
@@ -19,10 +19,10 @@ Análisis de rendimiento de ventas y operaciones logísticas sobre un dataset de
 8. Ranking de productos más rentables por canal
 
 ## Principales hallazgos
-- Margen de ganancia global del **37.3%** — operación muy saludable
-- **Wholesale** es el canal más eficiente — mejor margen y entrega más rápida
+- Margen de ganancia global del **37.3%** - operación muy saludable
+- **Wholesale** es el canal más eficiente - mejor margen y entrega más rápida
 - **WARE-NMK1003** concentra el 31.56% del costo operativo total
-- **100%** de las órdenes son de tamaño Small — oportunidad de aumentar ticket promedio
+- **100%** de las órdenes son de tamaño Small - oportunidad de aumentar ticket promedio
 - Productos **23 y 4** aparecen en el top 3 de múltiples canales
 
 ## Técnicas SQL utilizadas
@@ -43,5 +43,5 @@ Análisis de rendimiento de ventas y operaciones logísticas sobre un dataset de
 Este proyecto fue seleccionado por su conexión directa con mi experiencia como Director de Operaciones — analizando volúmenes de órdenes, costos logísticos y eficiencia por canal, conceptos que apliqué en el mundo real gestionando 3.000+ órdenes mensuales en el sector de servicios públicos.
 
 ## Autor
-Daniel Esquivel — Ingeniero Industrial | Data Analytics  
-Bogotá, Colombia — 2026
+Daniel Esquivel - Ingeniero Industrial | Data Analytics  
+Bogotá, Colombia - 2026
